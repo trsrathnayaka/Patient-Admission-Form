@@ -1,2 +1,3 @@
 # Patient-Admission-Form
-![Screenshot (239)](https://user-images.githubusercontent.com/97075043/229026504-dc84c4d5-3c0d-4dcf-875c-c2768059cb2a.png)
+
+![Screenshot (240)](https://user-images.githubusercontent.com/97075043/229026629-0b1e5936-afa5-4e6a-9982-d55ceb12af5a.png)

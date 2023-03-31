@@ -1,0 +1,11 @@
+C:\Users\HP\Desktop\pet\pet\bin\Debug\pet.exe.config
+C:\Users\HP\Desktop\pet\pet\bin\Debug\pet.exe
+C:\Users\HP\Desktop\pet\pet\bin\Debug\pet.pdb
+C:\Users\HP\Desktop\pet\pet\obj\Debug\pet.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\pet\pet\obj\Debug\pet.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\pet\pet\obj\Debug\pet.Form1.resources
+C:\Users\HP\Desktop\pet\pet\obj\Debug\pet.Properties.Resources.resources
+C:\Users\HP\Desktop\pet\pet\obj\Debug\pet.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\pet\pet\obj\Debug\pet.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\pet\pet\obj\Debug\pet.exe
+C:\Users\HP\Desktop\pet\pet\obj\Debug\pet.pdb
